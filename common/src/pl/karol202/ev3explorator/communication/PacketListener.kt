@@ -1,0 +1,3 @@
+package pl.karol202.ev3explorator.communication
+
+interface PacketListener
